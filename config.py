@@ -7,7 +7,7 @@ OPENEO_PROCESSES       = "https://openeo.eurac.edu/processes"
 OPENDATACUBE_CONFIG_FILE = ""
 
 #Used in odc_backend.py:
-DATACUBE_EXPLORER_ENDPOINT = ""
+DATACUBE_EXPLORER_ENDPOINT = "https://phenocube.org/eocube"
 USE_CACHED_COLLECTIONS = False
 METADATA_FOLDER = ""
 ODC_COLLECTIONS_FILE = METADATA_FOLDER + "/CACHE/" + "ODC_collections.json"
